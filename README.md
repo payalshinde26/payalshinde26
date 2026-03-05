@@ -70,7 +70,7 @@ payal = {
 
 ## 🎓 College Activities & Involvement
 
-> *Tech isn't just about code — it's also about showing up.
+> 
 
 ---
 

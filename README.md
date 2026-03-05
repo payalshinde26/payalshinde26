@@ -70,22 +70,7 @@ payal = {
 
 ## 🎓 College Activities & Involvement
 
-> *Tech isn't just about code — it's also about showing up.*
-
-| Activity | Role | Type |
-|---|---|---|
-| 🎪 College Annual Fest | Volunteer / Organizer | Cultural & Events |
-| 💻 Tech Club | Member | Technical |
-| 🏆 Intra-College Competitions | Participant | Various |
-| 🤝 Department Events | Coordinator / Helper | Academic |
-
-<div align="center">
-
-![Events](https://img.shields.io/badge/College_Events-Active_Participant-blueviolet?style=for-the-badge&logo=googlecalendar&logoColor=white)
-![Tech Club](https://img.shields.io/badge/Tech_Club-Member-blue?style=for-the-badge&logo=slack&logoColor=white)
-![Hackathons](https://img.shields.io/badge/Hackathons-Ready_to_Join-orange?style=for-the-badge&logo=devpost&logoColor=white)
-
-</div>
+> *Tech isn't just about code — it's also about showing up.
 
 ---
 
